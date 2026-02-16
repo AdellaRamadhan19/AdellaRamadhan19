@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ##### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwind,react,nodejs,laravel,figma&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwind,react,nodejs,laravel,figma&theme=light)
 
 ##### Connect with me
 
