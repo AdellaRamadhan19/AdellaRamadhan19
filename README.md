@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! I'm Adella Ramadhan 👋
+
+![Adella Ramadhan](img/bg1.png)
 
 <!--
 **AdellaRamadhan19/AdellaRamadhan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...
