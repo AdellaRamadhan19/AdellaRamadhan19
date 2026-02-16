@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
+##### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwind,react,nodejs,laravel,figma&theme=light)](https://skillicons.dev)
+
+##### Connect with me
+
+[![https://instagram.com/adellaramadhan](https://skillicons.dev/icons?i=instagram&theme=light)](https://skillicons.dev) [![https://www.linkedin.com/in/adellaramadhan](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
