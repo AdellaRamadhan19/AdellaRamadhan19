@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##### About Me
+
+I’m a passionate Fullstack Developer with a strong interest in building scalable and user-friendly web applications. I enjoy working across both front-end and back-end, turning ideas into functional and impactful digital solutions.<br><br>My core stack includes modern programming languages, frameworks, and database technologies for developing responsive interfaces and robust server-side systems. I value clean code, structured architecture, and continuous improvement in every project I build.<br><br>Currently, I’m continuously sharpening my skills in fullstack development and deepening my knowledge in software engineering principles, system design, and best practices to become a better and more reliable developer.
+
 ##### Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwind,react,nodejs,laravel,figma&theme=light)
